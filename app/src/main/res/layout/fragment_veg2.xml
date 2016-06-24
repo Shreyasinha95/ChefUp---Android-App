@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/frag_veg"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#adff2f"
+    android:alpha="0.3"></RelativeLayout>
+
+    <!--<ImageButton
+        android:layout_margin="20dp"
+        android:layout_width="234dp"
+        android:layout_height="234dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/circle"
+        android:id="@+id/fab_veg"
+
+        android:elevation="16dp"
+        />-->
+<!--
+    <at.markushi.ui.CircleButton
+        android:layout_width="234dip"
+        android:layout_height="234dip"
+        app:cb_color="#99CC00"
+        app:cb_pressedRingWidth="20dip"
+        android:layout_marginTop="25dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/button_m" />-->
+
+
+
+    <android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/coordinator_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+       <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_veg"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="379dp"
+            android:layout_marginStart="151dp"
+            app:borderWidth="0dp"
+            app:elevation="6dp"
+
+            app:backgroundTint="#99CC00"
+            app:layout_anchor="@id/coordinator_layout"
+            />
+
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/broc"
+            android:src="@drawable/carrot"
+            android:layout_marginStart="153dp"
+            android:elevation="15dp"
+            android:layout_marginTop="380dp"
+             />
+
+        <TextView
+            android:id="@+id/choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Meal type:"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#388E3C"
+            android:layout_marginTop="300dp"
+
+            android:layout_marginStart="20dp"
+            />
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            android:layout_marginTop="330dp"
+
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="30dp"/>
+
+
+
+    </android.support.design.widget.CoordinatorLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/tv_fruit"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginTop="260dp"
+        />
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/img_food"
+        android:layout_width="244dp"
+        android:layout_height="244dp"
+        android:src="@drawable/chef"
+        app:border_width="7dp"
+        android:layout_marginTop="20dp"
+        app:border_color="@color/accent"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginStart="65dp"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

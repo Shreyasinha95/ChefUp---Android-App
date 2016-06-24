@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/north_id"
+            android:title="North"
+            android:icon="@drawable/foody" />
+        <item
+            android:id="@+id/east_id"
+            android:title="East"
+            android:icon="@drawable/foody" />
+        <item
+            android:id="@+id/west_id"
+            android:title="West"
+            android:icon="@drawable/foody" />
+        <item
+            android:id="@+id/south_id"
+            android:title="South"
+            android:icon="@drawable/foody" />
+
+    </group>
+    <item android:title="Go Social!">
+        <menu>
+            <item
+                android:title="Share with Friends"
+                android:id="@+id/fb"
+                android:icon="@drawable/share_icon"
+                >
+
+            </item>
+            <!--
+            <item
+                android:title="Twitter"
+                android:id="@+id/twitter"
+                android:icon="@drawable/twitter"
+                >
+
+            </item>-->
+
+
+        </menu>
+
+    </item>
+    <item android:title="Feedback">
+        <menu>
+            <item
+                android:title="Write to us..."
+                android:id="@+id/feedback"
+                android:icon="@drawable/write"
+                >
+
+            </item>
+            <!--
+            <item
+                android:title="Twitter"
+                android:id="@+id/twitter"
+                android:icon="@drawable/twitter"
+                >
+
+            </item>-->
+
+
+        </menu>
+
+    </item>
+</menu>

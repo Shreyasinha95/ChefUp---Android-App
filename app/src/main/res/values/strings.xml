@@ -1,0 +1,695 @@
+<resources>
+    <string name="app_name">Chef Up!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="title_activity_page_fragment">PageFragment</string>
+    <string name="transition_album_cover">transition_album_cover</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_veg_fragment">Hello veg fragment</string>
+    <string name="hello_nonveg_fragment">Hello nonveg fragment</string>
+    <string name="title_activity_page_adapter">PageAdapter</string>
+    <string name="title_activity_picked">Picked</string>
+    <string name="title_activity_rvshow">RVshow</string>
+    <string name="title_activity_display_recipe">DisplayRecipeActivity</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">I am searching!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_search_results">SearchResults</string>
+
+    <string name="AalooFryIngr">
+    1. Potatoes - 2, very large size, wash, peel, cube and place in salted water for at least 20 to 30 mins\n
+    2. Turmeric powder - 1/2 tsp\n
+    3. Red chili powder - 1 1/2 tsps (adjust)\n
+    4. Coriander powder - 1 1/4 tsps\n
+    5. Besan - 1 tsp (chickpea flour/senagapindi)\n
+    6. Salt to taste\n
+    7. Cooking oil - 1 1/2 - 1 3/4 tbsps\n
+    8. For tempering:\n
+    9. Mustard seeds - 1/2 tsp\n
+    10. Asafoetida - 1/2 tsp\n
+    11. Curry leaves - 1 sprig (optional)\n
+    </string>
+    <string name="AalooFryRecipe">
+    1.Heat oil in a cooking vessel. Once the oil turns hot, add the mustard seeds and allow to splutter. Add asafoetida and curry leaves and mix. Immediately add the cubed potatoes. Saute on high heat for 2 to 3 mins.\n
+    2.Reduce to medium heat and cook for 4 to 5 mins, mixing the contents once.\n
+    3.Reduce heat to low, place lid and cook till the potatoes turn soft, approx 16-18 mins. You can mix the contents once during this cooking process.\n
+    4.Add the turmeric powder, chilli powder, coriander powder, chickpea flour or besan, and salt and mix. Stir fry without lid on high flame for 3 to 4 mins and toss the potatoes well till turn they attain a golden crisp exterior.\n
+    5.Turn off heat and serve with rice, dal or rasam and papad.\n
+    </string>
+    <string name="AalooFryTip">Use rice flour in place of besan.
+    </string>
+
+    <string name="MushroomPulaoIngr">
+    1.Mushrooms - 200 gms, cleaned, washed and sliced\n
+    2.Basmati rice - 2 cups, washed and soaked in water for 15 mins\n
+    3.Onions - 1, large, sliced\n
+    4.Ginger garlic paste - 1 tsp\n
+    5.Green chilis - 3, slit lengthwise\n
+    6.Fresh mint leaves - 1/4 cup packed\n
+    7.Fresh coriander leaves - 1/4 cup packed\n
+    8.Yogurt - 1/4 cup OR (thick coconut milk 1/4 cup)\n
+    9.Water - 1 1/2 cups\n
+    10.Cloves - 3\n
+    11.Green cardamom - 2\n
+    12.Black cardamom - 1\n
+    13.Cinnamon - 1 inch stick\n
+    14.Shahjeera - 1/2 tsp\n
+    15.Nutmeg powder - 1/4 tsp\n
+    16.Star anise - 1\n
+    17.Mace - small piece\n
+    18.Bay leaf - 1\n
+    19.Cashew nuts - 10\n
+    20.Oil - 2 tbsps\n
+    21.Ghee - 2 tbsps\n
+</string>
+    <string name="MushroomPulaoRecipe">
+    1.Heat ghee and oil in a pressure cooker. Add shah jeera, bay leaf, cinnamon, cloves, green cardamom, black cardamom, star anise mace, nutmeg and stir for a few seconds. Add the cashew nuts and saute till they turn golden.\n
+    2.Add the sliced onions and slit green chilis and saute for 5 mins. Add the ginger-garlic paste and saute for 4 mins till the raw smell disappears.\n
+    3.Add the coriander and mint leaves and saute for 2-3 mins. Add the sliced mushroom and cook for 7-8 mins.\n
+    4.Add the drained basmati rice and carefully mix. Saute for a min and add the yogurt OR coconut milk. Mix well.\n
+    5.Add water, place the lid and pressure cook up to 2 whistles on medium flame. Turn off heat.\n
+    6.Once the pressure has eased, remove the lid and lightly fluff up the rice with a fork. Remove to a serving vessel and garnish with fresh coriander leaves.\n
+    7.Serve warm with raita or korma.\n
+</string>
+    <string name="MushroomPulaoTip">No Tips Available. </string>
+
+    <string name="MushroomMatarIngr">
+    1.Mushrooms - 250 gms, cleaned, washed and sliced\n
+    2.Green peas - 3/4 cup\n
+    3.Onion - 1, medium, finely chopped\n
+    4.Ginger-green chili paste - 1/2 inch piece ginger+2 green chillies crushed\n
+    5.Tomatoes - 1, large, blanch, peel and puree\n
+    6.Red chili powder - 1/2 tsp\n
+    7.Turmeric powder - 1/4 tsp\n
+    8.Kasuri methi - 1 tsp, crushed\n
+    9.Garam masala powder - crush 2 cloves, 1/2\" cinnamon stick, 1 green cardamom, 5 peppercorns\n
+    10.Cashewnuts - 8, soak in 1/4 cup milk for 15 mts and grind to a paste\n
+    11.Salt to taste\n
+    12.Fresh coriander leaves for garnish\n
+    13.Fresh cream - 2 tbsps OR malai\n
+    14.Oil - 2 tbps+1 tbsp ghee (or butter)\n
+    </string>
+    <string name="MushroomMatarRecipe">1.Heat ghee or butter in a cooking vessel, add the sliced mushrooms and saute for 2 mts. Set aside.\n
+    2.In the same vessel, add the oil and add the chopped onions and saute for 4 mts. Add the crushed ginger-green chili paste and saute for 2 mts on low-medium flame.\n
+    3.Add turmeric powder, red chili powder and mix well. Add tomato puree and cook on low-medium flame for 8 mts or till oil separates. Add the green peas, a cup of water and salt and bring to a boil. Place lid and simmer for 5 mts.\n
+    4.Add the sauteed mushrooms and simmer for 10 mts or till mushrooms are cooked and the desired curry consistency is achieved.\n
+    5.Add kasuri methi, ground garam masala powder and cashew nut paste and mix well. Adjust salt, if required. Finally, add the fresh cream and mix and simmer for a mt and turn off the flame.\n
+    6.Remove to a serving bowl, garnish with fresh coriander leaves and serve with chapati, naan or pulao.\n
+    </string>
+    <string name="MushroomMatarTip">Pumpkin puree can be used instead of fresh cream.</string>
+
+     <string name="StrawberryPhirniIngr">
+    1.Basmati rice - 5 tbsps soaked for 15-20 mts in water, drained and ground to a fine paste with 1/2 cup milk\n
+    2.Full cream milk - 3 1/2 cups\n
+    3.Sugar - 1 cup (you can use 3/4 cup if strawberries are not too tart)\n
+    4.Strawberries - 12, washed, sliced and blend to a puree\n
+    5.Green cardamom powder - 1/2 tsp OR few drops of strawberry extract\n
+    6.Pistachios - fistful, blanched, peeled and sliced\n
+     </string>
+     <string name="StrawberryPhirniRecipe">
+    1.Heat milk in a heavy bottomed vessel and bring to a boil. Simmer till it reduces to 3/4 th of its original quantity.\n
+    2.Drain the soaked basmati rice and grind to a fine paste with 1/2 cup of boiled milk. Remove to a vessel, mix well and set aside.\n
+    3.Once the milk is reduced to 3/4th of its original quantity, gradually add the ground rice mixture and keep on stirring till it blends well into the milk and it begins to thicken.\n
+    4.Keep on stirring so that the bottom does not burn. The stirring could take anytime between 15-18 mts. Add cardamom powder and sugar and continue to stir till the sugar dissolves and it forms a nice creamy mixture with no lumps.\n
+    5.Add the strawberry puree and mix into the mixture till well combined. Allow to cook on very low flame for less than a mt and turn off flame.\n
+    6.Remove to a bowl, bring to room temperature and chill until serving time. At the time of serving, spoon the phirni into the serving bowl, garnish with sliced pistachios.\n
+    </string>
+     <string name="StrawberryPhirniTip">Drizzle strawberry coulis on top while serving.
+    </string>
+
+    <string name="LachhaParathaIngr">
+    1.Whole wheat flour - 2 cup, atta\n
+    2.Salt - 1/2 tsp\n
+    3.Oil - 1 tbsp (or ghee)\n
+    4.Warm water - as required\n
+    5.Oil for smearing on the rolled paratha and shallow roasting the parathas(or ghee)\n
+     </string>
+    <string name="LachhaParathaRecipe">1.In a bowl, add atta and salt and mix well to combine. Add a tbsp of oil or ghee and rub into the dough. Slowly, add enough warm water to make a soft yet firm dough. Knead for a few minutes and allow to rest for 10-15 minutes.\n
+    2.Pinch out small lemon sized balls off the dough. Place one ball of dough on the working surface and dust with flour.\n
+    3.Using a rolling pin, roll out the dough into a 7\"-8\" diameter flat circle. Drizzle 1-2 tsps oil or ghee and smear all over. Sprinkle a little flour over the greased paratha.\n
+    4.Staring at one end of the circle, begin folding the rolled out flat bread into 1/2" pleats.\n
+    5.Once the pleats are formed, clutch the ends and swing it lightly in the air so that the pleated dough stretches in length. Begin at one end to twirl it around to form a spiral/coil like a swiss roll.\n
+    6.Make more spirals with the rest of the remaining dough. Place a coiled dough on the working surface and dust with flour.\n
+    7.Roll out the dough into 7\"-8\" diameter circle, smear with 1-2 tsp oil or ghee and sprinkle some flour.\n
+    8.Begin to pleat from one end of the circle to form a lengthwise long pleat. Stretch it lightly and form a coil shape out of it. Once all the spirals/coils are prepared, allow to rest for at least half an hour by covering with a damp cloth.\n
+    9.After resting, place a coiled dough on the working surface and dust it with flour.\n
+    10.Roll out into a flat round 7\" diameter flat circle and place on a pre-heated iron tawa or griddle. Ensure that the griddle is hot before placing the paratha to shallow fry. Allow to cook on medium high flame for 20 seconds undisturbed before flipping it over. Now cook for another 20 seconds and flip it again and cook till brown spots appear. Use a flat ladle to press the paratha allowing the layers to form and puff up.\n
+    11.Flip once again, drizzle some oil or ghee and roast for a few more seconds before flipping over to the other side and roasting it till well browned and layers appear. You can gently crush the paratha to expose the inner soft layers.\n
+    12.Serve warm with dal makhani or palak paneer or mushroom masala or any curry of your choice.\n
+    </string>
+    <string name="LachhaParathaTip">Ghee or butter gives aromatic flavor to the paratha.
+     </string>
+
+    <string name="MushroomMasalaIngr">
+    1.Mushrooms - 250 gms, cleaned, sliced and blanched for a few secs in hot water\n
+    2.Onion - 1, large, finely sliced\n
+    3.Green chilis - 2, slit\n
+    4.Ginger - 1/2 inch piece, minced\n
+    5.Garlic - 2 cloves, minced\n
+    6.Tomatoes - 2, large, blanched in hot water for 3 mts, peeled and pureed\n
+    7.Red chili powder - 1/2 tsp\n
+    8.Turmeric powder - 1/4 tsp\n
+    9.Jaggery - 1/2 tsp, grated OR sugar\n
+    10.Cashew nuts - 8, soaked in 1/4 cup warm milk or warm water for 10 mts, ground to a paste\n
+    11.Kasuri methi - 1/2 tsp, crushed\n
+    12.Salt to taste\n
+    13.Fresh coriander leaves for garnish\n
+    14.Oil - 3-4 tbsps OR [oil - 1 tbsp + 2 tbsps ghee] Vegans can avoid ghee\n\n
+    15.Dry roast for 3 mts on low and grind to a fine powder:\n
+    16.Black pepper corns - 5
+    17.Cloves - 2\n
+    18.Cinnamon stick - 1/2 inch\n
+    19.Black cardamom - 1\n
+    20.Cumin seeds - 1/4 tsp\n
+    21.Coriander seeds - 1/2 tsp\n
+     </string>
+    <string name="MushroomMasalaRecipe">1.Heat half a tbsp of oil in a cooking vessel, add the sliced mushrooms and saute for 2 mts. Set aside.\n
+    2.In the same vessel, add a tbsp of oil and add the sliced onions and green chilis and saute for 4 mts. Add the minced garlic and ginger and saute for 3 mts on low medium flame. Turn off flame, remove to a bowl, cool and blend to a smooth paste.\n
+    3.Heat the remaining oil or ghee, add the ground paste and saute for 3 mts. Add turmeric powder, red chili powder and mix well.\n
+    4.Add tomato puree and cook on low-medium flame for 7-8 mts or till oil separates. Add 1 cup water, jaggery or sugar and salt and bring to a boil. Add the sauteed mushrooms and simmer for 10-12 mts or till mushrooms are cooked and the desired curry consistency is achieved.\n
+    5.Add kasuri methi, ground garam masala powder and cashew nut paste and mix well. Adjust salt, if required. Turn off flame.\n
+    6.Remove to a serving bowl, garnish with fresh coriander leaves and serve with chapathi, naan or pulao.\n
+     </string>
+    <string name="MushroomMasalaTip">Add a tbsp of cream for a richer flavor.
+     </string>
+
+    <string name="MasalaParathaIngr">
+    1.Whole wheat flour - 2 cups\n
+    2.Salt - 1/2 tsp\n
+    3.Water as required\n
+    4.Ghee - 4-5 tbsps\n
+    5.Mint leaves - 3 tbsps, finely chopped\n
+    6.Coriander leaves - 5 tbsps, finely chopped\n
+    7.For masala powder:\n
+    8. Red chili powder - 2 tsps, Kashmiri\n
+    9.urmeric powder - 1/2 tsp\n
+    10.Coriander powder - 2 tbsps\n
+    11.Saunf powder - 1 tbsp (aniseed/sompu)\n
+    12.Roasted cumin powder - 1/2 tsp\n
+    13.Amchur powder - 1/2 tsp OR chaat masala powder\n
+    14.Kasuri methi - 2 tsps, crushed (optional)\n
+    15.Garam masala powder - 1/4 tsp\n
+
+     </string>
+    <string name="MasalaParathaRecipe">1.In a bowl, add the atta or whole wheat flour and salt and mix. Slowly add water to form a soft yet slightly firm dough. Cover with damp cloth and let it rest for 10 mts. Prepare the masala powder in the mean time.\n
+    2.In a small bowl, add red chili powder, turmeric powder, coriander powder, saunf powder, cumin powder, garam masala powder, kasuri methi and amchur and mix well. Set aside.\n
+    3.Pinch a large lemon sized ball of dough and roll to form a 6\" diameter circle. Spread a tsp of melted ghee over it. Sprinkle the masala powder over it. Finally sprinkle chopped coriander and mint leaves.\n
+    4.Start rolling from one side of the paratha to form a long roll. Slowly twist the long roll in a concentric way to form a coil as shown in the image above. Press it gently on a flour dusted surface and roll out into a flat 7\"-8\" paratha.\n
+    5.Heat an iron tawa and once its hot, place the paratha and let it cook for 15 secs. Flip the paratha and let it cook for a few more secs. Once light brown spots appear, drizzle some ghee and roast to a golden shade on both sides. Use a spatula to press all over as the paratha gets roasted.\n
+    6.Serve warm with any curry of your choice or yogurt or raita.\n
+     </string>
+    <string name="MasalaParathaTip">Add a tbsp of dry roasted til or sesame seeds to the masala mixture.
+     </string>
+
+    <string name="PahariAlooIngr">
+    1.Pahari aloo - 3, large (or normal aloo)\n
+    2.Turmeric powder - 1/2 tso\n
+    3.Red chilli powder - 1 tsp\n
+    4.Coriander powder - 1/2 tsp (optional)\n
+    5.Salt to taste\n
+    6.Fresh coriander leaves- 2 tbsps, chopped for garnish\n\n
+    7.For tempering:\n
+    8.Mustard oil - 2 - 2 1/2 tbsps (or any cooking oil)\n
+    9.Cumin seeds - 1/2 tsp\n
+    10.Dry red chilis - 2-3\n
+    11.Jakhiya - 1/2 tsp (if you do not have access, omit it)\n
+    12.Asafoetida - 1/2 tsp\n
+    </string>
+    <string name="PahariAlooRecipe">1.Heat mustard oil in a heavy bottomed vessel till smoking hot. Reduce flame, add the cumin seeds and jakhiya and allow to sizzle and splutter. Add asafoetida and dry red chilis and saute for few seconds.\n
+    2.Add turmeric powder, chilli powder, coriander powder and salt along with 2 tbsps of water. Mix well and immediately add the sliced potatoes. Mix well to coat the spice powders and place lid. Cook on low flame.\n
+    3.After 10-12 mts, remove lid and mix the contents to ensure that the potatoes are cooked properly. Again after a few mts, mix again. Once the potatoes turn soft and golden, cook on high flame and toss the contents continuously so that they do not burn. Do this for a mt and turn off flame.\n
+    4.Remove to a serving bowl and garnish with fresh coriander leaves. Serve warm as a snack or with roti or puri.\n
+     </string>
+    <string name="PahariAlooTip">No Tips Available.
+     </string>
+
+    <string name="BesanLadooIngr">
+    1.Chickpea flour - 2 1/4 cups (besan/senagapindi), coarse (sift without lumps)\n
+    2.Ghee - 1/2 cup, melted (clarified/neyyi)\n
+    3.Powdered sugar - 3/4 cup\n
+    4.Khoya - 1/3 cup (saute in a tbsp of ghee for 3 mts)\n
+    5.Cardamom powder - 1/2 tsp (elaichi/elakaya)\n
+    6.Almonds - 1/4 cup (badam/badam pappu)\n
+    7.Cashew nuts - 1/4 cup (kaju/jeedipappu)\n
+     </string>
+    <string name="BesanLadooRecipe">1.Heat a tbsp of ghee in a heavy bottomed vessel. Add the cashew nuts and saute on low medium flame till they turn golden brown. Remove from the vessel and place in a bowl.\n
+    2.In the same ghee, add the almonds and saute on low flame for 3 mts. Remove from vessel and place in the bowl which has the cashew nuts. Set aside.\n
+    3.In the same vessel, add the ghee and allow to melt and turn warm but not hot. Add the besan to the warm ghee and cook on low flame stirring continuously. This is a time taking process and requires some patience. Roast only on low flame till the besan turns color and a lovely aroma emanates the kitchen. This will take at least 30-35 mts of constant stirring. Turn off flame.\n
+    4.Remove the roasted besan to a wide plate and allow to cool down. It can be slightly luke warm.\n
+    5.Meanwhile, add a tbsp of ghee to the same vessel and saute the grated khoya for 2-3 mts. Turn off flame and remove from vessel.\n
+    6.Grind the roasted cashew nuts and almonds to a coarse powder. Add it to the roasted besan. Add the powdered sugar and mix to combine.\n
+    7.Finally add cardamom powder and mix the contents gently. Shape the mixture into small lemon sized even balls. You can place any nut on top as garnish.\n
+    8.Besan ladoo has a shelf life of two weeks at room temperature.\n
+     </string>
+    <string name="BesanLadooTip"> No Tip Available.
+     </string>
+
+    <string name="PanjiriIngr">
+    1.Whole wheat flour - 1 1/2 cups (aata/godhuma pindi)\n
+    2.Chickpea flour - 3/4 cup (besan/senaga pindi)\n
+    3.Semolina - 1/2 cup (sooji/upma rava)\n
+    4.Grated dried coconut - 1/3 cup (copra/endu kobbari)\n
+    5.edible gum - 3 heaped tbsp (gond)\n
+    6.White poppy seeds - 1 tbsp (poppy seeds/gasagasalu)\n
+    7.Almonds - 1/3 cup (unsalted)\n
+    8.Pistachios - 1/3 cup (unsalted)\n
+    9.Powdered sugar - 1 1/2 to 2 cups (start with 1 cup and add more as required)\n
+    10.Fennel seeds powder - 1 tsp (saunf/sompu)\n
+    11.Dry ginger powder - 3/4 tsp (sonth/sonti)\n
+    12.Cardamom powder - 1 tsp (elachi/elakkaya)\n
+    13.Ghee - 1/2 cup\n
+     </string>
+    <string name="PanjiriRecipe">1.Heat 2 tbsps ghee in a heavy bottomed vessel. Add gond or edible gum and saute on medium flame till it puffs up and changes color. Remove with a slotted spoon and set aside in a plate.\n
+    2.In the same ghee, add the almonds and pistachios and saute for 2-3 mts and remove with a slotted spoon and set aside in the bowl.\n
+    3.Next add khus khus and saute for 4 mts on low medium flame. Next add the grated dried coconut and saute for 3 mts and remove the khus khus and coconut mixture and set aside in a separate bowl.\n
+    4.In the same vessel, add a tbsp of ghee, add the semolina and saute for 8-10 mts on low medium flame or till light pink in color. Remove and set aside in a separate wide plate.\n
+    5.In the same vessel, add 2 tbsps ghee, add the besan and saute for 8-10 mts on low medium flame or till a nice aroma emanates the kitchen. Remove from vessel and add to the plate in which semolina has been placed.\n
+    6.In the same vessel, add the remaining ghee and add the whole wheat flour. Saute on low medium flame, mixing continuously so that it does not burn. It could take a good 18-20 mts. The flour will change color and give a nice aroma. Turn off flame and remove to the plate in which semolina and besan have been placed.\n
+    7.Next, set aside 5-6 roasted almonds and 6-7 pistachios for garnishing and grind the remaining roasted nuts to a fine powder. Remove and add to the wide plate which has the roasted wheat flour, besan and semolina.\n
+    8.Next, grind the roasted gond, khus khus and dried coconut to a coarse powder and add to the wide plate.\n
+    9.Next, add the ginger powder, saunf powder and cardamom powder to the rest of the ingredients and and mix well. Allow to come to room temperature.\n
+    10.Add the powdered sugar and mix well so that all the panjiri ingredients are well combined. Cool and store in an airtight container. It has a shelf life of 45 days.\n
+    11.At the time of serving, remove to a serving bowl and garnish with roasted almond and pistachio slivers. It can be eaten as a stand alone dish or served with warm milk.\n
+     </string>
+    <string name="PanjiriTip"> If preparing for children, omit gond, dried ginger powder and khus khus.
+     </string>
+
+    <string name="UradDalIngr">
+    1.Urad dal - 1/2 cup, wash and soak in water for 1-2 hours\n
+    2.Tomatoes - 2, medium, finely chopped\n
+    3.Garlic - 2-3 cloves, finely minced OR Asafoetida - 1/4 tsp\n
+    4.Ginger - 1 inch, finely minced\n
+    5.Kasuri methi - 1/2 tsp, crushed\n
+    6.Green chilis - 3, slit\n
+    7.Turmeric powder - 1/2 tsp\n
+    8.Red chili powder - 1 tsp\n
+    9.Coriander powder - 1/2 tsp\n
+    10.Garam masala powder - large pinch\n
+    11.Salt to taste\n
+    12.Coriander leaves - 2 tbsps, finely chopped for garnish\n
+    13.For tempering:\n
+    14.Cumin seeds - 1/2 tsp\n
+    15.Ghee - 1 1/2 tbsps\n
+    16.Oil - 1/2 tbsp\n
+     </string>
+    <string name="UradDalRecipe">1.In a pressure cooker, add the soaked and drained urad dal, 2 1/2 cups water, turmeric powder, half of the minced ginger, one slit green chili and salt and pressure cook upto 2 whistles.\n
+    2.Alternately, you can add the urad dal in an earthen pot and cook over stove top or wood fire. Add at least 4-5 cups water and bring to a boil. Reduce flame and slow cook till the dal turns soft yet hold shape.\n
+    3.In a small pan, add ghee and oil. Once it turns hot, add cumin seeds and allow to splutter. Add the kasuri methi and finely minced garlic and saute for a few seconds. Add the remaining minced ginger and green chilies and mix.\n
+    4.Add red chili powder and mix. Add chopped tomatoes and saute for 6 mts.\n
+    5.Immediately add this to the cooked dal and mix. Add garam masala powder and allow to simmer on low flame till the desired consistency is achieved. Adjust salt if required.\n
+    6.Turn off flame and remove to a serving bowl. Garnish with chopped coriander leaves and serve with roti, pulka, paratha or rice.\n
+     </string>
+    <string name="UradDalTip">For a more garlicky flavor, increase garlic cloves.
+     </string>
+
+    <string name="CarrotKheerIngr">
+    1.Red carrots - approx 400 gms, peeled and grated (approx 1 1/2 cups)\n
+    2.Milk - 3 1/4 cups\n
+    3.Water - 1/4 cup\n
+    4.Almonds - 10, soak in hot water for 15 mts and peel\n
+    5.Sugar - 1/3 cup + 1 tbsp\n
+    6.Cardamom powder - 1/2 tsp\n
+    7.Ghee - 1 tbsp\n
+    8.Pistachios or cashewnuts - 6-7\n
+    9.Saffron - few strands, soaked in a tbsp of warm milk (optional)\n
+     </string>
+    <string name="CarrotKheerRecipe">1.Heat ghee in a vessel, add grated carrots and saute on low medium flame for 7-8 mts. Add a cup of milk and simmer till the carrots absorb the milk. Turn off flame and cool.\n
+    2.Grind the cooled and cooked carrots, almonds and 1/4 cup water to a smooth paste.\n
+    3.Return this ground mixture to the same cooking vessel the carrots were cooked earlier. Add the remaining milk, mix well and simmer for 3-4 mts.\n
+    4.Add the sugar, cardamom powder and saffron milk and simmer on low to medium flame till the sugar dissolves completely. If you want the kheer to be more liquidy, add more milk.\n
+    5.Turn off flame. Allow to cool down a bit and spoon into serving bowls or glasses. Alternately, you can chill the kheer before serving.\n
+     </string>
+    <string name="CarrotKheerTip">Add a tbsp of khoya/mawa for a richer flavor.
+     </string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+
+ <string name="BhaturaIngr">
+    1.Maida - 2 cups, (flour)\n
+    2.Semolina - 3 tbsps (sooji)\n
+    3.Curd - 4 tbsps (yogurt)\n
+    4.Oil - 1 tbsp\n
+    5.Salt - 1/2 tsp\n
+    6.Sugar - 1/2 tsp\n
+    7.Baking powder - 1 tsp\n
+    8.Water to knead into a dough\n
+    9.Oil - for deep frying\n
+     </string>
+     <string name="BhaturaRecipe">1.Combine all the mentioned ingredients (except oil for deep frying) and make a soft dough. The dough should not be too hard or too soft on touch.
+    2.Cover with a wet cheesecloth and keep aside for at least 3 to 4 hrs.\n
+    3.Pinch off some dough and make lemon sized balls and roll into thick round shaped rotis, approx 1/8â€³ thickness. It shold not be too thick or too thin.\n
+    4.Heat enough oil for deep frying in a heavy bottomed vessel. Once the oil is hot, reduce flame to medium high, slide the batura into the hot oil. Using the back of the ladle, press in the center and along the edges and you will find it will puff. Flip over and fry the other side till light golden brown. The bature should cook on the inside and puff up. Remove on to absorbant paper.\n
+    5.Serve hot with chole, sweet dahi with a sprinkle of chaat powder and chili powder, sliced fresh onions and salad of your choice.\n
+     </string>
+     <string name="BhaturaTip">If oil is smoking hot as the moment you place the bhatura into the hot oil, it will turn dark instead of a golden shade.
+     </string>
+
+    <string name="ChuraMatarIngr">
+    1.Beaten rice flakes - 2 cups, (poha/atukulu/aval) thick variety\n
+    2.Milk - 1 1/2 cups (whole milk is preferrred but you can use low fat)\n
+    3.Green peas - 1 cup, (matar/batani)\n
+    4.Ginger green chili paste (2 green chilies+1" ginger piece)\n
+    5.Fresh coriander leaves - 1/3 cup packed (separate stems and finely chop)\n
+    6.Sugar - 1 tsp (can increase by another half a tsp) or jaggery\n
+    7.Black pepper powder - 1/4 tsp\n
+    8.Garam masala powder - 1/2 tsp\n
+    9.Lemon juice - 1 tbsp\n
+    10.Salt to taste\n\n
+    11.For tempering:\n
+    12.Ghee - 1 1/2 tbsps\n
+    13.Cumin seeds - 1 tsp\n
+    14.Asafoetida - 1/4 tsp\n
+     </string>
+     <string name="ChuraMatarRecipe">1.Wash poha and drain completely. Place the poha in a vessel and add milk. Mix well and set aside.\n
+    2.Heat ghee in a vessel, once hot, add the cumin seeds and allow to splutter. Add ginger green chili paste and asafoetida and saute for a few seconds. Add the chopped coriander stems and green peas and saute for 3 mts on low flame.\n
+    3.Add a cup of water, salt to taste, black pepper powder and sugar and bring to a boil. Reduce flame and place lid and cook till the peas are cooked and the water is almost evaporated.\n
+    4.Add the milk soaked poha and fresh coriander leaves and mix well. Place lid and cook on low flame for 5 mts. Sprinkle little water if required.\n
+    5.Add garam masala and lemon juice and mix well. Turn off flame and serve warm.\n
+     </string>
+     <string name="ChuraMatarTip">Amchur powder can be used instead of lemon juice.
+     </string>
+
+    <string name="RedPohaUpmaIngr">
+    1.Red rice poha - 2 cups (red rice flakes)\n
+    2.Onion - 1, medium size, finely chopped\n
+    3.Green chilies - 2, finely chopped\n
+    4.Ginger - 1/2 inch, finely minced\n
+    5.Peanuts - 2 tbsps, roasted\n
+    6.Green peas - 1/4 cup, boiled (optional)\n
+    7.Coconut - 2 tbsp, freshly grated\n
+    8.Coriander leaves - 2 tbsps, finely chopped\n
+    9.Oil - 1 1/2 tbsp\n
+    10.Salt to taste\n
+    11.Lemon juice - 1 1/2 tbsps (optional)\n\n
+    12.Tempering:\n
+    13.Mustard seeds - 1/2 tsp\n
+    14.Asafetida - 1/4 tsp (hing)\n
+    15.Curry leaves - a sprig\n
+     </string>
+     <string name="RedPohaUpmaRecipe">1.Wash the poha and soak in a litre of lukewarm water for 5 mts. Drain completely and set aside to soften for 10 mts, covered. While the red poha is resting, boil the green peas, dry roast the peanuts and chop the onions, green chilies and ginger.\n
+    2.Heat oil in a heavy bottomed vessel, add the mustard seeds, asafoetida and curry leaves and allow the mustard seeds to splutter. Add the chopped onions, ginger, green chilis and curry leaves and saute for 5-6 mts.\n
+    3.Add the softened red poha, boiled green peas and salt and mix well. Place lid and allow to cook for 8-10 mts.\n
+    4.Add grated fresh coconut and mix well. Turn off flame and add lemon juice and mix again.\n
+    5.Remove to a serving bowl, garnish with coriander leaves and serve warm.\n
+     </string>
+     <string name="RedPohaUpmaTip">Vegetables like grated carrot, finely chopped beans and boiled potatoes can also be added.
+     </string>
+
+    <string name="BedmiPuriIngr">
+    1.For Stuffing:\n
+    2.Urad dal - 1 cup\n
+    3.Green chilis - 3-4\n
+    4.Ginger - 1 inch piece\n
+    5.Asafoetida - 1/2 tsp\n
+    6.Red chili powder - 1/2 tsp\n
+    7.Coriander powder - 1 tbsp\n
+    7.Fennel seeds powder - 1 tsp\n
+    8.Roasted cumin powder - 1/2 tsp\n
+    9.Amchur powder - 1/4 tsp\n
+    10.Garam masala powder - (3 cloves. 1/2 inch cinnamon stick, 1 black cardamom 5 black pepper corns)\n
+    11.Fresh coriander leaves - 1/4 cup (finely chopped)\n
+    12.Oil - 2-3 tbsps\n\n
+    13.For puri:\n
+    14.Whole wheat flour - 2 cups\n
+    15.Semolina - 1/2 cup\n
+    16.Salt - as required\n
+    17.Oil - 1 tbsp\n
+    18.Water - as required to prepare dough\n
+    19.Oil for deep frying\n
+     </string>
+     <string name="BedmiPuriRecipe">1.Grind the drained whole urad dal to a coarse paste adding 2-3 tbsps of water. Do not make a smooth paste.\n
+    2.Heat 3 tbsps oil in a heavy bottomed vessel. Add asafoetida and allow to sizzle. Add the ground urad dal paste and mix vigorously as it will stick to the vessel. Add more oil if required. After 5 mts, add ginger-green chili paste, red chili powder, coriander powder, roasted cumin powder, fennel seeds powder, garam masala powder and amchur powder. Mix well and vigorously. It will take some time to appear like a crumbly mixture. Once it appears like a loose crumbly texture, add the chopped coriander leaves and mix. Turn off heat. Set aside this urad dal mixture in a separate bowl.\n
+    3.Take a large bowl, add the whole wheat flour, semolina, salt, oil and water and make a slightly firm dough. [At this stage you can add the cooked urad dal mixture along with the wheat flour while making the dough. Make lemon sized balls of the dough and roll out into 5"-6" flattened circles/puris and deep fry till crisp and golden brown]\n
+    4.If using the cooked urad dal mixture as a stuffing, you will first have to make a firm dough with whole wheat flour, semolina, salt, oil and water. Pinch out small lemon sized balls from the puri dough and roll each into 3" discs. Place a tbsp of the stuffing in the center of each disc. Bring the edges of the disc up to form a cup shape and enclose. Dust some flour on the working surface and roll the ball into a flattened 5"-6" circle. Prepare puris with the rest of the dough and set aside.\n
+    5.Heat oil for deep frying in a wide cooking vessel on high flame. Once the oil is hot, reduce flame to medium high and carefully slide a rolled out puri into the hot oil. Gently press the puri with a ladle and allow it to puff. Increase flame and cook for a couple of seconds and gently flip to the other side. Cook for a few seconds till it turns golden brown. Remove the bedmi puri from the oil and place on absorbent paper. Make bedmi puris with rest of the rolled out puris.\n
+    6.Serve warm bedmi puri with aloo sabzi.\n
+     </string>
+     <string name="BedmiPuriTip">You can cook the ground urad dal paste along with the spices etc and use it as a stuffing.
+     </string>
+
+    <string name="DalPakwanIngr">
+    1.Chana dal - 1 cup (split Bengal gram), wash and soak in water for 2 hours or overnight\n
+    2.Turmeric powder - 1/4 tsp\n
+    3.Cumin seeds - 1/2 tsp\n
+    4.Asafoetida - 1/2 tsp\n
+    5.Ginger - 1/2 inch, finely minced\n
+    6.Green chilies - 2, slit, lengthwise\n
+    7.Curry leaves - 1 sprig\n
+    8.Tomato - 1, small, finely chopped (optional)\n
+    9.Red chili powder - 3/4 tsp\n
+    10.Amchur powder - 1/2 tsp\n
+    11.Garam masala - 1/4 tsp\n
+    12.Jaggery - 1/2 tsp (optional)\n
+    13.Oil - 2 tbsps OR ghee or butter (I used ghee)\n
+    14.Salt to taste\n
+    15.Water - 2 cups\n
+    16.Coriander leaves - 2 tbsps, finely chopped for garnish\n
+    17.Onions - 1, medium, finely chopped for garnish\n
+    18.Green chutney - 1/4 cup\n
+    19.Sweet chutney - 1/4 cup\n\n
+    20.For Pakwan:\n
+    21.All purpose flour - 1 cup (maida)\n
+    22.Whole wheat flour - 1 cup (atta)\n
+    23.Semolina - 1/4 cup (sooji)\n
+    24.Oil - 2 tbsps or ghee\n
+    25.Salt to taste\n
+    26.Carom seeds - 1/2 tsp (ajwain)\n
+    27.Black pepper corns - 1/2 tsp, crushed (optional)\n
+    28.Water as required\n
+    29.Oil for deep frying\n
+     </string>
+     <string name="DalPakwanRecipe">1.Pressure cook the soaked chana dal along with turmeric powder and 2 1/2 cups water up to 2 whistles on high and cook on low heat for 5 mins. Remember that the dal should be cooked and hold shape. If you feel that the dal has to cook further, let it cook over stove top without lid or without pressure till the dal turns soft yet holds shape.\n
+    2.Heat oil or ghee in a small pan. Once it turns hot, add cumin seeds and allow to splutter. Add asafoetida, minced ginger, green chilies and curry leaves and saute for few seconds. If using tomato, add it and allow to cook for 4 mins.\n
+    3.Add red chili powder, amchur powder, garam masala powder, salt and jaggery and mix well. Add this mixture to the cooked dal mixture and allow to simmer on low-medium heat for few minutes for the flavors to meld. If required, add more water for a loose consistency dal. Turn off heat.\n
+    4.Remove the dal to a serving bowl. Garnish with chopped coriander leaves and chopped onions. Drizzle some green chutney and sweet chutney over it and serve with pakwan.\n
+    5.To make the pakwan, in a bowl, add the whole wheat flour, all-purpose flour, sooji, salt, oil, ajwain and crushed black pepper and mix well. Slowly add water to make a firm dough. It should not be too soft. Make small lemon size balls of the dough, dust the working surface and roll into a circle of approx 6" diameter.\n
+    6.Make fork impression all over the rolled out circle so that it does not puff up while being deep fried in hot oil.\n
+    7.Heat oil for deep frying. Once the oil turns hot, reduce heat for medium and add a rolled out circle carefully into the hot oil. Deep fry until the pakwan turns golden brown and crisp. Remove onto an absorbent paper. Deep fry all the rolled out circles.\n
+    8.Serve the pakwan with chana dal, green chutney and sweet chutney. You can store the pakwan in an airtight container for 2-3 days.\n
+     </string>
+     <string name="DalPakwanTip">You can store the pakwan in an airtight container for 2-3 days.
+     </string>
+
+    <string name="PaneerSandwichIngr">
+    1.Whole wheat bread slices - 4 (or brown bread)\n
+    2.Fresh paneer - 1/2 cup (crumble or grate)\n
+    3.Capsicum - 1 (small), finely chopped\n
+    4.Onion - 1/4 cup, finely sliced\n
+    5.Green chilies - 1-2, finely chopped\n
+    6.Fresh coriander leaves - 2 tbsps, finely chopped\n
+    7.Tomato Sauce - 1 tbsp (or Tomato Ketchup)\n
+    8.Salt to taste\n
+    9.Butter - 1 tsp\n
+     </string>
+     <string name="PaneerSandwichRecipe">1.In a bowl, mix all the ingredients except butter and bread. Take 2 tablespoons of the prepared paneer filling and place on the whole wheat bread slice. Place another bread slice over it.\n
+    2.Drizzle some butter on a pan and toast the sandwich. Alternately, you can grill the sandwich too. In that case, spread a little butter on one side of each bread slice and place filling on the un-buttered and grill it. Serve warm.\n
+     </string>
+     <string name="PaneerSandwichTip">If you do not have paneer on hand, use tofu or hung yogurt.
+     </string>
+
+    <string name="ChilliCheeseSandwichIngr">
+    1.Bread\n
+    2.Cheese\n
+    3.Chilies\n
+     </string>
+     <string name="ChilliCheeseSandwichRecipe">1.In a bowl grate a cheese cube (about 2 tbsps). Add 2 finely chopped green chilies, finely chopped small green or red bell pepper, finely chopped small onion, 2 tbsps chopped coriander leaves, pinch of salt and 1/4 tsp pepper pwd to the grated cheese and mix lightly.\n
+         2.Take a slice of brown bread or whole wheat bread, spread 2 tbsps of the prepared filling and sprinkle some cheese on top. Bake in a pre-heated oven at 175 C till cheese melts and the bread it toasted, approx 5-6 mts.\n
+     </string>
+     <string name="ChilliCheeseSandwichTip">You can use Amul cheese, Mozzarella or Cheddar cheese.
+     </string>
+
+    <string name="VegetableMasalaToastIngr">
+    1.Bread\n
+    2.Carrot\n
+    3.Capsicum\n
+     </string>
+     <string name="VegetableMasalaToastRecipe">1.Heat a tbsp of olive oil in a cooking vessel. Add a chopped onion and a chopped green chili and saute for 4 mts. Add one chopped capsicum and one grated carrot and saute for another 6 mts. Add salt to taste, 1/2 tsp red chili pwd and pinch of turmeric pwd. Mix well. Add a tbsp of tomato ketchup, a tbsp of lemon juice and chopped coriander leaves and mix. Turn of heat and remove onto a plate.\n
+         2.Toast whole wheat or brown bread on one side, spread some tomato sauce, spoon some of the vegetable masala all over and toast the other side of the bread in a few drops of ghee or butter.\n
+     </string>
+     <string name="VegetableMasalaToastTip">No Tips Available.
+     </string>
+
+    <string name="BharwaBhindiIngr">
+    1.Bhindi - 250 to 300 gms (okra/bendakaya)\n
+    2.Oil - 2-3 tbsps\n
+    3.Salt to taste\n\n
+    4.For filling:\n
+    5.Onion - 4 tbsps (finely chopped) - optional\n
+    6.Green chili-ginger paste (crush 2 green chilis+1 inch ginger)\n
+    7.Red chili powder - 1/2 tsp\n
+    8.Turmeric powder - 1/4 tsp\n
+    9.Coriander powder - 1/2 tbsp\n
+    10.Roasted cumin powder - 1/4 tsp\n
+    11.Lemon juice - 1 tbsp or amchur powder - 1/2 tsp\n
+    12.Saunf powder - 1/2 tsp (fennel seeds)\n
+    13.Garam masala - pinch (optional)\n
+    14.Salt - 1/4 tsp\n
+    15.Sugar - 1/2 tsp\n
+    16.Besan - 2 heaped tbsps (roasted on low flame for 6-7 mts)\n
+    Sesame seeds - 1/2 tsp, roasted and crushed\n
+    17.Peanuts - 1/4 cup, roasted and coarsely crushed\n
+    18.Coriander leaves - 2 tbsps, finely chopped\n\n
+    19.For tadka/poppu/tempering:\n
+    20.Cumin seeds - 1/2 tsp\n
+    21.Asafoetida - 1/4 tsp\n
+     </string>
+     <string name="BharwaBhindiRecipe">1.Mix all the ingredients meant for stuffing in a bowl and set aside.\n
+    2.Wash and pat dry the bhindi. Make a slit length wise in each bhindi (as shown in the image above) and stuff a tbsp of the stuffing in the slit. Stuff all the bhindi with the filling and set aside. If there is any left over filling, set it aside too.\n
+    3.Heat oil in a wide mouthed cooking vessel. Once the hot turns hot, add the cumin seeds and allow to splutter. Add asafoetida and saute for few seconds. Add the stuffed okra and spread them around the vessel in a single layer.\n
+    4.Add any left over stuffing over it and cook on low medium flame without lid. Sprinkle approx 1/2 tsp salt over the stuffed bhindi. Do not add more salt as there is salt in the stuffing mixture as well.\n
+    5.Every few minutes turn the bhindi to allow even cooking. Slow roasting of the okra can take at least 25-30 minutes without lid.\n
+    6.Turn off flame. Serve with chapathi, roti or rice.\n
+     </string>
+     <string name="BharwaBhindiTip">Ensure you roast the chick pea flour before adding to the rest of the stuffing ingredients.
+     </string>
+
+    <string name="KhoyaMatarPaneerIngr">
+    1.Paneer - 250 gms, cubed
+    2.Green peas - 1/2 cup (fresh or frozen)
+    3.Gr3een chili-ginger paste - 1 1/2 tsps (2 green chilis+1 inch ginger)
+    4.Khoya - 1/3 cup, unsweetened, grated, sauteed in 1/2 tsp ghee for less than a mt
+    5.Tomatoes - 3, medium, blanched, peeled and ground to a paste
+    6.Turmeric powder - 1/4 tsp
+    7.Red chili powder - 1/2 tsp
+    8.Coriander powder - 1/2 tsp
+    9.Milk - 1/4 cup (full fat or skimmed) OR a heaped tbsp of fresh cream
+    10.Water - 1 1/4 cups
+    11.Sugar - 1/2 tsp
+    12.Salt to taste
+    13.Coriander leaves - for garnish (optional)
+    14.Ghee - 1 1/2 tbsps
+    15.Oil - 1 tbsp
+    16.Roast and grind to a powder:
+    17.Cloves - 2
+    18.Black cardamom - 1
+    19.Green cardamom - 1
+    20.Cinnamon - 1/4 inch
+    21.Black peppercorns - 5
+    22.Cumin seeds - 1/4 tsp\n
+     </string>
+     <string name="KhoyaMatarPaneerRecipe">1.Heat ghee and oil in a heavy bottomed vessel. Once hot, add ginger green chili paste and saute for few seconds.\n
+    2.Add turmeric powder, red chili powder and coriander powder and mix. Add a tbsp of water and mix so that the spice powders do not burn.\n
+    3.Add tomato puree and saute on low-medium flame for 8-10 mts. Add the grated khoya and keep stirring so that it blends well into the tomato mixture. Cook on low flame for 5-6 mts, stirring often.\n
+    4.Add the green peas and mix. Add water, sugar and salt and mix well. Place lid and cook on medium flame for 7-8 mts.\n
+    5.Add the paneer cubes and mix gently. Simmer without lid for a couple of minutes or till the desired consistency is achieved.\n
+    6.Turn off flame. Slowly pour the milk and continuously stir the mixture so that it does not curdle and blends well into the curry.\n
+    7.Add the garam masala powder and mix. Remove to a serving bowl and garnish with fresh coriander leaves.\n
+    8.Serve with roti, paratha, rumali roti, naan, kulcha or any flavored rice or pulao.\n
+     </string>
+     <string name="KhoyaMatarPaneerTip">For a richer flavor, a heaped tbsp of fresh cream or malai instead of milk.
+     </string>
+
+    <string name="PunjabiCholeIngr">
+        1.250 gms kabuli channa, soak in water overnight\n
+        2.3 green chillis, slit length wise\n
+        3.1 tsp grated ginger\n
+        4.1/2 inch cinnamon stick\n
+        5.1 whole black cardamom\n
+        7.6.1 bay leaf\n
+        8.1 large onion, finely chopped\n
+        9.2 tomatoes, finely chopped\n
+        10.1 tsp red chilli pwd (adjust to suit your spice level)\n
+        11.fresh coriander leaves for garnish\n
+        12.salt to taste\n
+        13.1 1/2 tbsps oil\n
+        14.For Masala Pwd: (dry roast on low to medium flame for 4 mts and grind to a fine powder)\n
+        15.1 1/2 tbsps coriander seeds\n
+        16.1 1/2 tsps anardana (dried pomegranate seeds)\n
+        17.3 cloves\n
+        18.1 inch cinnamon\n
+        19.2 black cardamoms\n
+        20.1/2 tsp pepper corns\n
+        21.3/4 tsp cumin seeds\n
+     </string>
+     <string name="PunjabiCholeRecipe">1.Pressure cook the chickpeas along with 3 cups of water, large pinch baking soda, a tea bag, cinnamon and one large black cardamom (badi elaichi) till soft. The chickpeas should be soft and not be overcooked and mushy. Drain the water and keep aside for latter use and discard the tea bag.\n
+    2.Heat oil in a heavy bottomed vessel, add green chillis, grated ginger and bay leaf. Saute for few seconds.\n
+    3.Add the chopped onions and saute till transparent. Add red chili pwd and salt. Mix well. Add the tomatoes and cook until soft and oil separates, approx 13-15 mts.\n
+    4.Add the ground masala pwd and mix well.\n
+    5.Add the boiled channa (keep aside 2-3 tbsps of boiled channa and mash). Cook on simmer for 4 mts. Add the left over water and if necessary add another cup of water and bring to a boil. Add the mashed channa and mix. Cook for approx 18-20 mts or till you achieve a slightly thick gravy.\n
+    6 Adjust the salt and turn off heat. Garnish with fresh coriander leaves.\n
+    7.Serve hot as a snack garnished with chopped onions or with bhatura or rotis.\n
+     </string>
+     <string name="PunjabiCholeTip">No Tip Available.
+     </string>
+
+    <string name="KajuPaneerIngr">
+        1.1/4 kg paneer – cube and saute in a tsp of ghee till lightly browned\n
+        2.1 large onion (blanch for 6-7 mts and make a coarse paste)\n
+        3.ginger-green chilli paste (1 inch ginger piece+5 green chillis)\n
+        4.1 capsicum, chop into small pieces\n
+        5.1 1/2 tsps coriander pwd\n
+        6.1 1/2 tsps kasuri methi (dry fenugreek leaves)\n
+        7.garam masala pwd (make a pwd of 2 cloves,1 cardamom and 1â€ cinnamon)\n
+        8.1 1/2 cups low fat milk\n
+        9.1 tsp malai/top of milk\n
+        10.cashew nut paste (soak 10-12 cashews in warm milk for 10 mts, grind to a paste)\n
+        11.salt to taste\n
+        12.3/4 tbsp oil\n
+     </string>
+     <string name="KajuPaneerRecipe">1.Heat oil in a cooking vessel, add the onion paste and saute, approx 6-7 mts. Add the capsicum pieces and saute for 2-3 mts. Add ginger-green chilli paste, coriander pwd and combine. Add few tbsps water and saute for 2 mts.\n
+         2.Add milk and cashew nut paste and simmer for 7-8 mts. Add paneer, crushed kasuri methi and salt. Simmer for a few more mts.\n
+         3.Stir in malai, garam masala pwd and kasuri methi and combine, cook for a mt. Turn off flame.\n
+         4.Let it sit for a while before serving. The gravy thickens, so at the time of serving, add a little milk and combine. Serve hot with rotis or naan.\n
+     </string>
+     <string name="KajuPaneerTip">No Tip Available.
+     </string>
+
+    <string name="ButterPaneerMasalaIngr">
+        1.250 gms paneer – cubed and sautÃ© in a tbsp of ghee till golden brown, remove into a dish and add a cup of hot water to the fried paneer cubes and let them sit in it for 5mts,then drain the water and keep aside\n
+        2.2 big onions (blanch for 10 mts and puree)\n
+        3.1 tbsp ginger-garlic paste\n
+        4.1 tsp red chilli pwd (I used kashmiri chillis) you can increase to 1 1/2 tsps\n
+        5.3 big ripe tomatoes (blanch ,de-skin and puree)\n
+        6.3 tbsps cashewnut paste\n
+        7.1 tsp coriander pwd\n
+        8.1/4 tsp haldi (turmeric pwd)\n
+        9.1 tsp kasuri methi (dry fenugreek leaves)\n
+        10.garam masala pwd (make a pwd of 3 cloves,1 green cardamom and 1â€ cinnamon)\n
+        11.salt to taste\n
+        12.3 tbsps butter\n
+        13.2 tbsps fresh cream\n
+     </string>
+     <string name="ButterPaneerMasalaRecipe">1.Heat 2 tbsp of butter in a pan, add the onion paste and sautÃ© till light brown (approx 8-10 mts). Add ginger-garlic paste. Saute for 3 minutes. Add chilli pwd and combine, followed by the cashew paste and combine.\n
+         2.Add tomato puree, crushed kasuri methi,coriander pwd, haldi, garam masala and salt. Stir and let it simmer for 4-5 mts.\n
+         3.Add the paneer and simmer for 4-5 minutes. Add a small cup of water and let it cook on medium heat for 10 mts or till you get the desired curry consistency. Remove from fire, stir in remaining butter and fresh cream.\n
+         4.Let the curry sit for 10-15 mts before serving. Garnish with coriander leaves. Serve hot with rotis, naan , paranthas or simple steamed white rice.\n
+     </string>
+     <string name="ButterPaneerMasalaTip">No Tip Available.
+     </string>
+
+    <string name="AlooTamatarSubziIngr">
+        1.4 medium potatoes (boiled and slightly mash with hand roughly to form small chunks)\n
+        2.1 large onion chopped finely\n
+        3.3 cloves garlic finely minced\n
+        4.1 inch ginger finely minced\n
+        5.1/2 tsp mustard seeds\n
+        6.2 dry red chillis\n
+        7.10-12 curry leaves\n
+        8.2 green chilli slit length wise\n
+        9.1 tsp red chilli pwd (adjust according to your choice)\n
+        10.1 tbsp coriander pwd\n
+        11.1/2 tsp cumin pwd\n
+        12.1/4 tsp turmeric pwd\n
+        13.salt to taste\n
+        14.3 medium sized tomatoes finely chopped\n
+        15.1 1/2 tbsp oil\n
+        16.chopped coriander leaves for garnish\n
+        17.1 tsp jaggery or sugar (optional)\n
+     </string>
+     <string name="AlooTamatarSubziRecipe">1.Heat oil in a cooking vessel and add the mustard seeds and let them pop. Now add the red chillis and curry leaves and stir fry for a few seconds till the flavors are released in the oil. Now add onions, ginger and garlic and saute till the onions turn light brown. Add the green chillis and all the pwds. Combine.\n
+         2.Add the tomatoes and stir fry till the oil seperates and it gets mushy.\n
+        3.Add the potatoes and combine and keep covered with a lid on low heat for 3-4 minutes.\n
+        4.Remove lid and cook further for another 3-4 mts stirring once in a while.\n
+        5.Add salt and enough water to cover the potatoes.\n
+        6.Bring to a boil and let it simmer on low heat till you get the desired curry consistency. Finally add the jaggery/sugar and combine. Turn off heat. Garnish with chopped coriander leaves.\n
+        7.Serve hot with rotis/chapatis/steamed white rice.\n
+     </string>
+     <string name="AlooTamatarSubziTip">No Tip Available.
+     </string>
+
+</resources>

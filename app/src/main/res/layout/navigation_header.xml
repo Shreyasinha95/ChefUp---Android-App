@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="200dp"
+    android:background="@drawable/nav_head"
+    >
+
+
+    <!--<ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/india"
+        android:src="@drawable/nav_head"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentTop="true"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Regions"
+        android:id="@+id/region"
+        android:textColor="#ffffff"
+
+        android:layout_marginTop="35dp"
+       android:layout_marginLeft="60dp"
+       android:textSize="40dp" />-->
+
+
+</RelativeLayout>
